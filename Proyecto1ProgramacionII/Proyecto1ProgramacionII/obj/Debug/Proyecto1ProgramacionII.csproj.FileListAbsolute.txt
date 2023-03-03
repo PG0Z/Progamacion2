@@ -1,0 +1,16 @@
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\bin\Debug\Proyecto1ProgramacionII.exe.config
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\bin\Debug\Proyecto1ProgramacionII.exe
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\bin\Debug\Proyecto1ProgramacionII.pdb
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.exe
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.pdb
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.exe
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\obj\Debug\Proyecto1ProgramacionII.pdb
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\bin\Debug\Proyecto1ProgramacionII.exe.config
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\bin\Debug\Proyecto1ProgramacionII.exe
+C:\Users\pablo\Downloads\Proyecto1ProgramacionII\Proyecto1ProgramacionII\bin\Debug\Proyecto1ProgramacionII.pdb

@@ -1,0 +1,8 @@
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\bin\Debug\Clase4progra2.exe.config
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\bin\Debug\Clase4progra2.exe
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\bin\Debug\Clase4progra2.pdb
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\obj\Debug\Clase4progra2.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\obj\Debug\Clase4progra2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\obj\Debug\Clase4progra2.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\obj\Debug\Clase4progra2.exe
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Clase4progra2\Clase4progra2\obj\Debug\Clase4progra2.pdb
